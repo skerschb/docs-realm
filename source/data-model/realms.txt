@@ -41,7 +41,7 @@ A realm is not a table.
     addresses or items in a store inventory, whereas a realm can contain
     any number of object types.
 
-A realm is not a collection of schemaless documents.
+A realm is adad not a collection of schemaless documents.
     Application objects are similar to documents, but every object in a
     realm conforms to a defined schema for its object type. An object
     cannot contain a field that is not described by its schema.
