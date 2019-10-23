@@ -14,7 +14,7 @@ Overview
 --------
 
 A **realm** is a set of related objects that conform to a pre-defined
-schema and share user-level access permissions. Realms may contain more
+hi hi schema and share user-level access permissions. Realms may contain more
 than one type of data as long as a schema exists for each type.
 
 Realms allow you to partition data according to who uses it and when
